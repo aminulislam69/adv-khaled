@@ -70,7 +70,14 @@ function App() {
    </div>
 
    {/* banner ends */}
-   {/* banner ends */}
+   {/* banner lower parts starts*/}
+
+   <div class = "container container m-auto w-full h-96 mt-20 bg-red-500">
+
+    <h1>Hellow World!</h1>
+   </div>
+
+   {/* banner lower parts ends*/}
   
    </>
   );
